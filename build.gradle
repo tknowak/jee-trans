@@ -1,0 +1,9 @@
+apply plugin: 'war'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    providedCompile "javax:javaee-api:6.0"
+}
