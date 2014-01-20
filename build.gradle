@@ -6,4 +6,5 @@ repositories {
 
 dependencies {
     providedCompile "javax:javaee-api:6.0"
+    testCompile "junit:junit:4.10"
 }
